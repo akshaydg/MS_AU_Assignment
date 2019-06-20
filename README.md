@@ -1,3 +1,3 @@
 # MS_AU_Assignment
 
-This assignment consists of Lift problem and Telephone simulation.
+This assignment consists of various assignments as a part of MS_AU19 .
